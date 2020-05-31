@@ -23,7 +23,7 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 
 ### Sunday May 31st
 
-![githublandscape](https://user-images.githubusercontent.com/65561871/82247136-c013f200-98fa-11ea-8aca-f4eb53fe50e4.jpg)
+![githublandscape]()
 
 I'm a photography nerd! Specifically film, I love to shoot 35mm & 120.      
 
