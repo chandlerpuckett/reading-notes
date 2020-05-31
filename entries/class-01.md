@@ -2,5 +2,5 @@
 
 
 
-[home](https://chandlerpuckett.github.io/reading-notes/)
+[home](https://chandlerpuckett.github.io/reading-notes)
 
