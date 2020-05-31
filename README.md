@@ -23,7 +23,8 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 
 ### Sunday May 31st
 
-![githublandscape](chandlerpuckett/documents/projects/codefellows/201/reading-notes/images/tater.jpg)
+![githublandscape](...iclouddrive/documents/projects/codefellows/201/reading-notes/images/tater.jpg)
+
 
 I'm a photography nerd! Specifically film, I love to shoot 35mm & 120.      
 
