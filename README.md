@@ -5,7 +5,7 @@ I'm Chandler!
 Live Sound Engineer // Photographer // Musician // Brand New Coder!! 
 
 ### Entries
-- [Class 1]()
+- [Introductory HTML & Javascript](/entries/class-01.md)
 - [Class 2]()
 - [Class 3]()
 - [Class 4]()
