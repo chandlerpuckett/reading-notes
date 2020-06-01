@@ -4,6 +4,9 @@
 I'm Chandler!    
 Live Sound Engineer // Photographer // Musician // Brand New Coder!! 
 
+### This Page
+> This site is here to document the reading for Code 201
+
 ### Entries
 - [Introductory HTML & Javascript](/entries/class-01.md)
 - [Class 2]()
