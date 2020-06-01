@@ -1,9 +1,5 @@
 # Code 201 Reading Notes
 
-## About Me
-I'm Chandler!    
-Live Sound Engineer // Photographer // Musician // Brand New Coder!! 
-
 ### Purpose
 > This site is here to document the reading for Code 201 & to serve as an online resource for information & best practices associated with HTML, Javascript, and CSS coding languages. 
 
@@ -24,7 +20,11 @@ Live Sound Engineer // Photographer // Musician // Brand New Coder!!
 - [Class 15]()
 
 
-### Sunday May 31st
+
+## About Me
+I'm Chandler!    
+Live Sound Engineer // Photographer // Musician // Future Python Developer!! 
+
 
 ![githublandscape](/images/tater.jpg)
 
