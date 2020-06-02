@@ -4,8 +4,8 @@
 > This site is here to document the reading for Code 201 & to serve as an online resource for information & best practices associated with HTML, Javascript, and CSS coding languages. 
 
 ### Entries
-- [Introductory HTML & Javascript](/entries/class-01.md)
-- [Class 2](/entries/class-02.md)
+- [Class1-Introductory HTML & Javascript](/entries/class-01.md)
+- [Class 2-Text, CSS, Operators, Loops](/entries/class-02.md)
 - [Class 3]()
 - [Class 4]()
 - [Class 5]()
