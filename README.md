@@ -5,7 +5,7 @@
 
 ### Entries
 - [Introductory HTML & Javascript](/entries/class-01.md)
-- [Class 2]()
+- [Class 2](/entries/class-02.md)
 - [Class 3]()
 - [Class 4]()
 - [Class 5]()
