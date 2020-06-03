@@ -6,7 +6,7 @@
 ### Entries
 - [Class 1 - Introductory HTML & Javascript](/entries/class-01.md)
 - [Class 2 - Text, CSS, Operators, Loops](/entries/class-02.md)
-- [Class 3]()
+- [Class 3 - HTML Lists, CSS Boxes, JS Control Flow]()
 - [Class 4]()
 - [Class 5]()
 - [Class 6]()
