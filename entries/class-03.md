@@ -81,3 +81,5 @@ Logical expressions are evaluated left to right. If the first condition can prov
 - initialization;
 - condition;
 - update;
+
+[home](https://chandlerpuckett.github.io/reading-notes)
