@@ -8,7 +8,7 @@
 - [Class 2 - Text, CSS, Operators, Loops](/entries/class-02.md)
 - [Class 3 - HTML Lists, CSS Boxes, JS Control Flow](/entries/class-03.md)
 - [Class 4]()
-- [Class 5]()
+- [Class 5 - Images, Color, Text](/entries/class-05.md)
 - [Class 6]()
 - [Class 7]()
 - [Class 9]()
