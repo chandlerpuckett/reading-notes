@@ -10,7 +10,7 @@
 - [Class 4]()
 - [Class 5 - Images, Color, Text](/entries/class-05.md)
 - [Class 6]()
-- [Class 7]()
+- [Class 7 - Tables, Functions/Methods/Objects](/entries/class-07.md)
 - [Class 9]()
 - [Class 10]()
 - [Class 11]()
