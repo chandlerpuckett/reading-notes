@@ -9,7 +9,7 @@
 - [Class 3 - HTML Lists, CSS Boxes, JS Control Flow](/entries/class-03.md)
 - [Class 4]()
 - [Class 5 - Images, Color, Text](/entries/class-05.md)
-- [Class 6]()
+- [Class 6 - Object Literals, THE DOM](/entries/class-06.md)
 - [Class 7 - Tables, Functions/Methods/Objects](/entries/class-07.md)
 - [Class 9]()
 - [Class 10]()
