@@ -11,6 +11,7 @@
 - [Class 5 - Images, Color, Text](/entries/class-05.md)
 - [Class 6 - Object Literals, THE DOM](/entries/class-06.md)
 - [Class 7 - Tables, Functions/Methods/Objects](/entries/class-07.md)
+- [Class 8 - Forms , Events](/entries/class-08.md)
 - [Class 9]()
 - [Class 10]()
 - [Class 11]()
