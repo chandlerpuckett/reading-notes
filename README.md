@@ -15,7 +15,7 @@
 - [Class 9]()
 - [Class 10]()
 - [Class 11]()
-- [Class 12]()
+- [Class 12 - Charts](/entries/class-12.md)
 - [Class 13]()
 - [Class 14]()
 - [Class 15]()
