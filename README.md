@@ -1,4 +1,6 @@
-# Code 201 Reading Notes
+# Reading Notes
+
+## Code 201 - Foundations of Software Development
 
 ### Purpose
 > This site is here to document the reading for Code 201 & to serve as an online resource for information & best practices associated with HTML, Javascript, and CSS coding languages. 
@@ -20,7 +22,23 @@
 - [Class 14]()
 - [Class 15]()
 
-
+## Code 301 - Intermediate Software Development
+### Entries
+- [Class 1]()
+- [Class 2]()
+- [Class 3]()
+- [Class 4]()
+- [Class 5]()
+- [Class 6]()
+- [Class 7]()
+- [Class 8]()
+- [Class 9]()
+- [Class 10]()
+- [Class 11]()
+- [Class 12]()
+- [Class 13]()
+- [Class 14]()
+- [Class 15]()
 
 ## About Me
 I'm Chandler!    
