@@ -24,11 +24,11 @@
 
 ## Code 301 - Intermediate Software Development
 ### Entries
-- [Class 1]()
-- [Class 2]()
-- [Class 3]()
-- [Class 4]()
-- [Class 5]()
+- [Class 1 - Responsive Web Design](/entries/301/class-01.md)
+- [Class 2](/entries/301/class-02.md)
+- [Class 3](/entries/301/class-03.md)
+- [Class 4](/entries/301/class-04.md)
+- [Class 5](/entries/301/class-05.md)
 - [Class 6]()
 - [Class 7]()
 - [Class 8]()
@@ -46,7 +46,6 @@ Live Sound Engineer // Photographer // Musician // Future Python Developer!!
 
 
 ![githublandscape](/images/tater.jpg)
-
 
 I'm a photography nerd! Specifically film, I love to shoot 35mm & 120.      
 
