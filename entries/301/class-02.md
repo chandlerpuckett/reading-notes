@@ -88,10 +88,10 @@ Methods:
 ### INSERTING ELEMENTS
 
 1. creating new elements in a jQuery Object
-  - var $newFragment = $(`<li>`);
+  - const $newFragment = $(`<li>`);
 
 2. creates variable called " $newItem " and stores a jQuery object in it -- object in turn contains an `<li>` element with a class attribute and some text: 
-  - var $newItem = $('`<li class="new">`item`</li>`)
+  - const $newItem = $('`<li class="new">`item`</li>`)
 
 ### ADDING NEW ELEMENTS TO THE PAGE
 
@@ -111,7 +111,7 @@ Methods:
 
 - `.addClass()` : adds new value to existing value of the class; *DOES NOT OVERWRITE EXISTING VALUES*
 
--- `.removeClass()` : removes value from the class atrribute, leaving any other class names within the attribute intact
+- `.removeClass()` : removes value from the class atrribute, leaving any other class names within the attribute intact
 
 
 #### GET CSS PROPERTY

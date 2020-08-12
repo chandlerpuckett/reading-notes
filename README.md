@@ -26,7 +26,7 @@
 ### Entries
 - [Class 1 - Responsive Web Design](/entries/301/class-01.md)
 - [Class 2 - jQuery, Events, and The Dom](/entries/301/class-02.md)
-- [Class 3](/entries/301/class-03.md)
+- [Class 3 - Flexbox](/entries/301/class-03.md)
 - [Class 4](/entries/301/class-04.md)
 - [Class 5](/entries/301/class-05.md)
 - [Class 6]()
