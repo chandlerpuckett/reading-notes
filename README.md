@@ -28,7 +28,7 @@
 - [Class 2 - jQuery, Events, and The Dom](/entries/301/class-02.md)
 - [Class 3 - Flexbox](/entries/301/class-03.md)
 - [Class 4 - CSS: Grid / RegEx](/entries/301/class-04.md)
-- [Class 5](/entries/301/class-05.md)
+- [Class 5 - Heroku](/entries/301/class-05.md)
 - [Class 6]()
 - [Class 7]()
 - [Class 8]()
