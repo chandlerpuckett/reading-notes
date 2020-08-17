@@ -29,7 +29,7 @@
 - [Class 3 - Flexbox](/entries/301/class-03.md)
 - [Class 4 - CSS: Grid / RegEx](/entries/301/class-04.md)
 - [Class 5 - Heroku](/entries/301/class-05.md)
-- [Class 6]()
+- [Class 6 - Node, Express, API's](/entries/301/class-06.md)
 - [Class 7]()
 - [Class 8]()
 - [Class 9]()
