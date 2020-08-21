@@ -33,7 +33,7 @@
 - [Class 7 - API's continued](/entries/301/class-07.md)
 - [Class 8]()
 - [Class 9]()
-- [Class 10 - The Call Stackt](/entries/301/class-10.md)
+- [Class 10 - The Call Stack](/entries/301/class-10.md)
 - [Class 11]()
 - [Class 12]()
 - [Class 13]()
