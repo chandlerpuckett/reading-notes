@@ -35,7 +35,7 @@
 - [Class 9]()
 - [Class 10 - The Call Stack](/entries/301/class-10.md)
 - [Class 11 - EJS](/entries/301/class-11.md)
-- [Class 12]()
+- [Class 12 - Partials](/entries/301/class-12.md)
 - [Class 13]()
 - [Class 14]()
 - [Class 15]()
