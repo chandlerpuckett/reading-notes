@@ -37,7 +37,7 @@
 - [Class 11 - EJS](/entries/301/class-11.md)
 - [Class 12 - Partials](/entries/301/class-12.md)
 - [Class 13 - Sending Form Data](/entries/301/class-13.md)
-- [Class 14]()
+- [Class 14 - DataBase Normalization](/entries/301/class-14.md)
 - [Class 15]()
 
 ## About Me
