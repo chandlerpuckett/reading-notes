@@ -32,7 +32,7 @@
 - [Class 6 - Node, Express, API's](/entries/301/class-06.md)
 - [Class 7 - API's continued](/entries/301/class-07.md)
 - [Class 8 - SQL](/entries/301/class-08.md)
-- [Class 9]()
+- [Class 9 - Refactoring](/entries/301/class-09.md)
 - [Class 10 - The Call Stack](/entries/301/class-10.md)
 - [Class 11 - EJS](/entries/301/class-11.md)
 - [Class 12 - Partials](/entries/301/class-12.md)
