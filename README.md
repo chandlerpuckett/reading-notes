@@ -31,7 +31,7 @@
 - [Class 5 - Heroku](/entries/301/class-05.md)
 - [Class 6 - Node, Express, API's](/entries/301/class-06.md)
 - [Class 7 - API's continued](/entries/301/class-07.md)
-- [Class 8]()
+- [Class 8 - SQL](/entries/301/class-08.md)
 - [Class 9]()
 - [Class 10 - The Call Stack](/entries/301/class-10.md)
 - [Class 11 - EJS](/entries/301/class-11.md)
