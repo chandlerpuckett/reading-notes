@@ -40,6 +40,9 @@
 - [Class 14 - DataBase Normalization](/entries/301/class-14.md)
 - [Class 15 - Diversity & Inclusion](/entries/301/class-15.md)
 
+## Code 401 - Advanced Software Development in Java
+- [Class 6 - Inheritance and Interfaces](/entries/401/class-06.md)
+
 ## About Me
 I'm Chandler!    
 Live Sound Engineer // Photographer // Musician // Future Python Developer!! 
