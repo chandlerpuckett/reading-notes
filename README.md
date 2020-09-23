@@ -42,6 +42,9 @@
 
 ## Code 401 - Advanced Software Development in Java
 - [Class 6 - Inheritance and Interfaces](/entries/401/class-06.md)
+- [Class 8 - Object Oriented Design](/entries/401/class-08.md)
+
+
 
 ## About Me
 I'm Chandler!    
