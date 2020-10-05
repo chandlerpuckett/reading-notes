@@ -46,7 +46,10 @@
 - [Class 11 - Spring](/entries/401/class-11.md)
 - [Class 12 - Spring Full Stack](/entries/401/class-12.md)
 - [Class 13 - Integration Testing](/entries/401/class-13.md)
-
+- [Class 16 - Spring Authentication](/entries/401/class-16.md)
+- [Class 17 - Spring Authentication Pt. II](/entries/401/class-17.md)
+- [Class 18 - Web App Security](/entries/401/class-18.md)
+- [Class 19 - Spring and Sockets](/entries/401/class-19.md)
 
 
 
