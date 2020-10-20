@@ -51,6 +51,8 @@
 - [Class 18 - Web App Security](/entries/401/class-18.md)
 - [Class 19 - Spring and Sockets](/entries/401/class-19.md)
 - [Class 20 - Android Fundamentals](/entries/401/class-20.md)
+- [Class 21 - Intents, Activities, and SharedPreferences](/entries/401/class-21.md)
+
 
 
 
