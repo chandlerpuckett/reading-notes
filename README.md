@@ -54,6 +54,7 @@
 - [Class 21 - Intents, Activities, and SharedPreferences](/entries/401/class-21.md)
 - [Class 22 - Recycler View](/entries/401/class-22.md)
 - [Class 23 - Room / Android Database](/entries/401/class-23.md)
+- [Class 31 - Espresso](/entries/401/class-31.md)
 
 
 
