@@ -60,6 +60,7 @@
 - [Class 34 - Cognito](/entries/401/class-34.md)
 - [Class 37 - S3](/entries/401/class-37.md)
 - [Class 38 - SNS](/entries/401/class-38.md)
+- [Class 39 - Kinesis](/entries/401/class-39.md)
 
 
 
