@@ -15,3 +15,4 @@ You can identify a users location by using `UserProfile.Location`
 ### Escape Hatch
 > For advanced use cases where Amplify does not provide the functionality, you can retrieve the escape hatch to access the underlying Amazon Pinpoint client
 
+ 
