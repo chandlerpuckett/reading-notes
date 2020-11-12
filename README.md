@@ -63,6 +63,7 @@
 - [Class 39 - Kinesis](/entries/401/class-39.md)
 - [Class 41 - Intent Filters](/entries/401/class-41.md)
 - [Class 42 - Location](/entries/401/class-42.md)
+- [Class 44 - Monetization](/entries/401/class-44.md)
 
 
 
