@@ -33,3 +33,7 @@
 4. consider your cost structures
 5. take your audience into account
 6. consider local factors when setting prices
+
+--
+--
+--
